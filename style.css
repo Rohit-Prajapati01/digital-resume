@@ -9,7 +9,7 @@ body{
     align-items: center;
 }
 .container{
-    width: 35vw;
+    width: 55%;
     height: 80vh;
     border: 1px solid green;
 }
