@@ -9,7 +9,17 @@ body{
     align-items: center;
 }
 .container{
-    width: 80vw;
+    width: 50vw;
     height: 80vh;
     border: 1px solid black;
+}
+.container .div1{
+    width: 19%;
+    height: 100%;
+    border: 1px solid blue;
+}
+.container .div2{
+    width: 79%;
+    height: 100%;
+    border: 1px solid red;
 }
