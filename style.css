@@ -14,12 +14,12 @@ body{
     border: 1px solid green;
 }
 .container .div1{
-    width: 30%;
+    width: 5%;
     height: 100%;
     border: 1px solid blue;
 }
 .container .div2{
-    width: 70%;
+    width: 50%;
     height: 100%;
     border: 1px solid red;
 }
